@@ -22,4 +22,4 @@ A message object will have an additional field `user_profile` with the fields re
 
 **pinkku**
 
-Github: [@znat](https://github.com/pinkku)
+Github: [@pinkku](https://github.com/pinkku)
