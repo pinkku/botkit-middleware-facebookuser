@@ -1,5 +1,5 @@
 {
-  "name": "botkit-middleware-fbuser",
+  "name": "botkit-middleware-facebookuser",
   "version": "1.0.0",
   "description": "Adds a Facebook user_profile object to a Botkit message",
   "main": "index.js",
