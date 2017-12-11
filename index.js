@@ -1,1 +1,1 @@
-module.exports = require('./src/botkit-middleware-fbuser');
+module.exports = require('./src/botkit-middleware-facebookuser');
